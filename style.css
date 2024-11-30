@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+body {
+  background-color: #1f2937;
+  font: Roboto;
+  color: #f9faf8;
+  font-size: 48px;
+  font-weight: 900;
+}
+
+button {
+  color: #f9faf8;
+  background-color: #3882f6;
+  font-weight: bold;
+  border-radius: 25px;
+}
+
+footer {
+  background-color: #1f2937;
+}
+
+.header {
+  font-size: 24px;
+  color: #f9faf8;
+}
+.secondary-text {
+  font-size: 18px;
+  color: #e5e7eb;
+  font-size: 18px;
+}
