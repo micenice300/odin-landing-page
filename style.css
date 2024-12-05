@@ -16,7 +16,7 @@ h1 {
   margin-left: 20px;
 }
 
-button {
+.button {
   display: flex;
   color: #f9faf8;
   background-color: #3882f6;
@@ -121,6 +121,39 @@ h1 {
   display: flex;
   justify-content: center;
   background-color: #e5e7eb;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.footer-size {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.call-to-action-background-color {
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 13px;
+  font-weight: 300px;
+}
+
+.call-to-action {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #3882f6;
+  border-radius: 10px;
   padding-top: 40px;
   padding-bottom: 40px;
+  padding-right: 6px;
+  padding-left: 6px;
 }
