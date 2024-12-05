@@ -28,6 +28,7 @@ h1 {
   margin-left: 29px;
   justify-content: center;
   align-items: center;
+  border: none;
 }
 
 footer {
@@ -44,9 +45,9 @@ footer {
 .secondary-text {
   font-size: 18px;
   color: #e5e7eb;
-  font-size: 18px;
   margin-left: 2em;
   margin-top: 2em;
+  font-weight: 300;
 }
 
 ul {
@@ -156,4 +157,16 @@ h1 {
   padding-bottom: 40px;
   padding-right: 6px;
   padding-left: 6px;
+}
+
+.button-two {
+  background-color: #3882f6;
+  color: white;
+  width: 100px;
+  height: 30px;
+  border: none;
+  outline-style: outset;
+  outline-width: 1px;
+  font-size: 18px;
+  font-weight: bold;
 }
